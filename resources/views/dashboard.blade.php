@@ -7,7 +7,7 @@
 
     <div class="py-12">
         <div class="bg-white p-6 rounded-lg shadow-md">
-            <h2 class="text-lg font-bold text-gray-700">Selamat Datang di SIAKAD!</h2>
+            <h2 class="text-lg font-bold text-gray-700">Selamat Datang di SIAKAD WEB!</h2>
             <p class="text-gray-500 mt-2">Silakan mulai mengelola sistem informasi akademik Anda.</p>
         </div>
     </div>
